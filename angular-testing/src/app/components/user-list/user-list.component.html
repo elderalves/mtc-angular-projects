@@ -1,0 +1,19 @@
+<div class="title">
+  <h1>Users</h1>
+</div>
+<div class="form-user">
+  <button class="add-button" [routerLink]="['/users', 0]">Add User</button>
+</div>
+<div class="user-list">
+  <ul>
+    <li *ngFor="let user of users">
+      <div class="user-pic">
+        <img [src]="user.image" />
+      </div>
+      <a [routerLink]="['/users', user.id]">
+        {{user.name}}
+        <span>{{user.role}}</span>
+      </a>
+    </li>
+  </ul>
+</div>

@@ -1,0 +1,23 @@
+:host {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  color: red;
+}
+
+input {
+  padding: 7px;
+  border: 1px solid #cfcfcf;
+  border-right: none;
+}
+
+button {
+  margin: 10px 0;
+  background-color: #3273dc;
+  color: white;
+  border: none;
+  border-radius: 0 2px 2px 0;
+  padding: 8px;
+}

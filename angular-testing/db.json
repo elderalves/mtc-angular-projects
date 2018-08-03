@@ -1,0 +1,21 @@
+{
+  "users": [{
+      "id": 1,
+      "name": "Richard",
+      "image": "https://picsum.photos/301/301",
+      "role": "Software Engineer"
+    },
+    {
+      "id": 2,
+      "name": "Sarah",
+      "image": "https://picsum.photos/301/301",
+      "role": "UI Developer"
+    },
+    {
+      "name": "Michael",
+      "id": 4,
+      "image": "https://picsum.photos/302/302",
+      "role": "Sales Manager"
+    }
+  ]
+}
