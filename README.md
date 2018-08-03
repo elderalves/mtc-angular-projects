@@ -18,7 +18,7 @@ I'm excited to share with you some of my insights, works, and experimental thing
         <tr>
             <td><img src="resources/images/thumbnail/angular-testing.jpg"></img></td>
             <td>User List - The purpose is to work with tests on Angular 6, going deep using Jasmine for unit testing, and doing e2e with protactor. </td>
-            <td align="center"><a href="#" target="_blank">:white_check_mark: :arrow_right:</a></td>
+            <td align="center"><a href="https://github.com/elderalves/mtc-angular-projects/tree/master/angular-testing">:white_check_mark: :arrow_right:</a></td>
         </tr>
     </tbody>
 </table>
